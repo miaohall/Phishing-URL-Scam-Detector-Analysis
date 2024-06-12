@@ -8,4 +8,4 @@ From our machine learning models, random forest classifier was a moderate predic
 
 Utilized Dataset: “Dataset phishing - dataset to find out phishing attacks on websites”  via https://www.kaggle.com/datasets/simaanjali/phising-detection-dataset/data 
 
-BU DS110
+BU DS110, Spring 2024
